@@ -1,3 +1,7 @@
+# How-to
+
+The content in here will be used to create new blog articles and other longer-format content, but will also act as knowledge-dense articles.
+
 # Future Knowledge
 - Winning the infinite game
 - Subjective profitability: how being profit is relative to your opinion.
